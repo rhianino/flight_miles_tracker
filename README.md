@@ -1,4 +1,6 @@
 flight_miles_tracker
 ====================
 
-A piece of software to track the miles flown throughout the completion of your PhD, developed as a part of the Software carpentry course at University of Leeds
+A piece of software to track the miles flown throughout the completion of your PhD, developed as a part of the Software carpentry course at University of Leeds.
+
+The working code is contained within 'UserInput'.
